@@ -1,0 +1,22 @@
+{
+    "name": "avestereye-color-theme",
+    "publisher": "Avestereye",
+    "displayName": "Avestereye Color Theme",
+    "description": "Color Theme Based on GutHub Color Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Avestereye GitHub Improved Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Avestereye GitHub Improved Color Theme-color-theme.json"
+            }
+        ]
+    }
+}
