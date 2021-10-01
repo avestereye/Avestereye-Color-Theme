@@ -553,7 +553,7 @@
 		},
 		{
 			"scope": [
-				"entity.other.attribute-name.pseudo-class.css",
+				
 				"support.function.misc.css"
 			],
 			"settings": {
@@ -569,6 +569,17 @@
 			"settings": {
 				// #D3FFFF
 				"foreground": "#ffa657"
+				
+			}
+		},
+		{
+			"scope": [
+				"entity.other.attribute-name.pseudo-element.css",
+				"entity.other.attribute-name.pseudo-class.css",
+			],
+			"settings": {
+				// #D3FFFF
+				"foreground": "#d2a8ff"
 				
 			}
 		},
